@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "856BA054-59F1-475F-AAC1-FB620E2DDB66"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "746E168E-D491-4807-895E-2669CA49907D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Delivery App/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "746E168E-D491-4807-895E-2669CA49907D - 4c6240e2953d2b56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Food_Delivery_App.ViewController.getData() -&gt; ()"
+                  moduleName = "Food Delivery App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ind040101154/Desktop/Food%20Delivery%20App/Food%20Delivery%20App/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "746E168E-D491-4807-895E-2669CA49907D - 4c6240e2953d2b56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Food_Delivery_App.ViewController.getData() -&gt; ()"
+                  moduleName = "Food Delivery App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ind040101154/Desktop/Food%20Delivery%20App/Food%20Delivery%20App/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "746E168E-D491-4807-895E-2669CA49907D - 4c6240e2953d2b56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Food_Delivery_App.ViewController.getData() -&gt; ()"
+                  moduleName = "Food Delivery App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ind040101154/Desktop/Food%20Delivery%20App/Food%20Delivery%20App/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
